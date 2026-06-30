@@ -1,0 +1,11 @@
+str
+svchost.exe
+svchost.exe -k netsvcs -p -s Schedule
+MpCmdRun.exe
+C:\Windows\System32\
+cmd.exe
+powershell.exe
+rundll32.exe
+regsvr32.exe
+C:\Windows\System32
+SHA256
